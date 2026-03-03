@@ -1,7 +1,7 @@
 
-  # Perfect App Design
+  # Untitled
 
-  This is a code bundle for Perfect App Design. The original project is available at https://www.figma.com/design/OzkPoNNbyVJo3B8f5NCGzK/Perfect-App-Design.
+  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/OzkPoNNbyVJo3B8f5NCGzK/Untitled.
 
   ## Running the code
 
